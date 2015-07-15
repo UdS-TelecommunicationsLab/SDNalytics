@@ -1,0 +1,7 @@
+.idea/
+.vagrant/
+*.pyc
+sdnalyzer.json
+sdnalyzer.egg-info/
+build/
+dist/

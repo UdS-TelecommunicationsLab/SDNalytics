@@ -1,0 +1,13 @@
+{
+  "connectionString": "postgresql://user:pass@host:port/database",
+  "pollInterval": 30,
+  "controller": {
+    "host": "localhost",
+    "port": 8080
+  },
+  "api": {
+    "port": 4711,
+    "username": "user",
+    "password": "pass"
+  }
+}
